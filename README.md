@@ -7,3 +7,5 @@ The repo contains the following files:
 
 - **trainLSTM.py** which contains the methods used to train the models.
 - **requirements.txt** which are the libraries used in the conda environment of this project.
+
+Interested in using my audio/text features? [Let me know](mailto:tuka@mit.edu).
