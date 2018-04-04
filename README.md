@@ -5,12 +5,14 @@ This repo contains scripts to model depression in speech and text. LSTM models a
 The data used can be downloaded from the [Distress Analysis Interview Corpus](http://dcapswoz.ict.usc.edu/).
 
 ### Features
-The features are either segment-level statistics of the audio, or doc2vec embeddings of the words in a segment. Keras with the tensorflow back-end was used for modeling.
+The features are either segment-level statistics of the audio, or doc2vec embeddings of the words in a segment. Higher-level audio features (mean, max, min, median, std) were extracted using the COVAREP and FORMNAT features provided in the corpus, and the doc2vec embeddings were generated using [this script](https://github.com/talhanai/sweet-wrapper-embeddings).
 
 ### Files
 The repo contains the following files:
 
 - **trainLSTM.py** which contains the methods used to train the models.
 - **requirements.txt** which are the libraries used in the conda environment of this project.
+
+Keras with the tensorflow back-end was used for modeling.
 
 Interested in using my audio/text features? [Let me know](mailto:tuka@mit.edu).
