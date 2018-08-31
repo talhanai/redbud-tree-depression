@@ -17,6 +17,14 @@ Keras with the tensorflow back-end was used for modeling.
 
 Interested in using my audio/text features? [Let me know](mailto:tuka@mit.edu).
 
+## Reference Paper
+
+''' 
+T. Alhanai, MM. Ghassemi, J. Glass, 
+"Detecting "Detecting Depression with Audio/Text Sequence Modeling of Interviews"
+Interspeech 2018, India
+'''
+
 
 
 DISCLAIMER: The user accepts the code / configuration / repo AS IS, WITH ALL FAULTS.
