@@ -17,6 +17,16 @@ Keras with the tensorflow back-end was used for modeling.
 
 Interested in using my audio/text features? [Let me know](mailto:tuka@mit.edu).
 
+## Libraries
+I used the following librarires:
+```
+keras-gpu=2.1.3=py36_0
+cudnn=7.0.5=cuda8.0_0
+tensorflow-gpu=1.4.1=0
+tensorflow-gpu-base=1.4.1=py36h01caf0a_0
+tensorflow-tensorboard=0.4.0=py36hf484d3e_0
+```
+
 ## Reference Paper
 
 ``` 
