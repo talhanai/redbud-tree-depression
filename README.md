@@ -34,7 +34,7 @@ T. Alhanai, MM. Ghassemi, J. Glass,
 "Detecting "Detecting Depression with Audio/Text Sequence Modeling of Interviews"
 Interspeech 2018, India
 ```
-
+[Paper can be found here](https://groups.csail.mit.edu/sls/publications/2018/Alhanai_Interspeech-2018.pdf)
 
 
 DISCLAIMER: The user accepts the code / configuration / repo AS IS, WITH ALL FAULTS.
