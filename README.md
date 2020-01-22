@@ -15,8 +15,6 @@ The repo contains the following files:
 
 Keras with the tensorflow back-end was used for modeling.
 
-Interested in using my audio/text features? [Let me know](mailto:tuka@mit.edu).
-
 ## Libraries
 I used the following librarires:
 ```
